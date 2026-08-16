@@ -24,7 +24,7 @@ function App() {
             <a href="method.html" className="border border-border text-sm font-semibold px-7 py-3.5 rounded-md hover:border-accent/60 transition-colors">Explore the Method</a>
           </div>
         </div>
-        <img src="../hero-photo.jpg" alt="" className="rounded-2xl w-full aspect-[4/5] object-cover grayscale-[30%] contrast-90" />
+        <img src="hero-photo.jpg" alt="" className="rounded-2xl w-full aspect-[4/5] object-cover grayscale-[30%] contrast-90" />
       </section>
 
       <section className="bg-surface border-y border-border">
